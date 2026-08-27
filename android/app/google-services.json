@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "523965633607",
+    "firebase_url": "https://srijaaulagam-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "srijaaulagam",
+    "storage_bucket": "srijaaulagam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523965633607:android:f1ff60df0fe286ee16cd62",
+        "android_client_info": {
+          "package_name": "com.example.shreeja_ulagam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523965633607-5eu28m32qefpd8rirpncnfffvn9jkjrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPMZ0B-YM5A3id_wRDv4ejr1OF_pBhRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523965633607-5eu28m32qefpd8rirpncnfffvn9jkjrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523965633607:android:f85221302ca2a7a316cd62",
+        "android_client_info": {
+          "package_name": "com.tvs.srijaulagamdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523965633607-5eu28m32qefpd8rirpncnfffvn9jkjrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPMZ0B-YM5A3id_wRDv4ejr1OF_pBhRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523965633607-5eu28m32qefpd8rirpncnfffvn9jkjrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
