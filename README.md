@@ -1,4 +1,4 @@
-# shreeja_ulagam
+# shreeja_ulagam Mobile App
 
 A new Flutter project.
 
